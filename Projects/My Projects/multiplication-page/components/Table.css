@@ -1,0 +1,19 @@
+.main {
+    float: left;
+    width: 350px;
+    color: #AB0000;
+    font-size: 25px;
+    font-family: 'Crete Round';
+    margin-right: 15px;
+}
+
+.sub {
+    border: solid 10px #673100;
+    background-color: #00600A;
+}
+
+.sub p {
+    background: none;
+    color: #FFFFFF;
+    font-family: 'Chalkduster';
+}
