@@ -1,0 +1,31 @@
+* {
+  border-sizing: border-box;
+}
+
+.card {
+  padding: 10px;
+  margin: 20px;
+  width: 25%;
+  min-width: 300px;
+  text-align: center;
+  display: inline-block;
+  color:  #000000;
+  background-color: #f4f4f4;
+  border-radius: 15px;
+  border: solid 2px #f2f2f2;
+  box-shadow: 15px 5px 10px #c6c6c6;
+}
+
+.title {
+  color:  #ffffff;
+  font-size: 30px;
+}
+
+.status {
+  font-size: 20px;
+}
+
+.preview {
+  width: 50%;
+  height: 170px;
+}
