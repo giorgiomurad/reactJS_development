@@ -1,0 +1,12 @@
+.trash {
+  padding: 10px;
+  width: 30px;
+}
+
+.trash:hover {
+  background-color: #c9c9c9;
+  border-radius: 99px;
+  opacity: 60%;
+  transition: .3s;
+  cursor: pointer;
+}
