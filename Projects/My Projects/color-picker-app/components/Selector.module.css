@@ -1,0 +1,43 @@
+.wrapper {
+  background-color: #ffffff;
+  border: solid 4px #aaaaaa;
+  outline: solid 4px #b5b5b5;
+  margin: 35px auto;
+  width: 75%;
+}
+
+.row {
+  padding:  10px 60px;
+  display:  flex;
+  justify-content:  space-between;
+}
+
+.row input[type='text'] {
+  text-align: center;
+  width:  170px;
+}
+
+.row:first-child {
+  padding: 10px 100px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.selector {
+  width: 150px;
+}
+
+.opacity {
+  display: flex;
+}
+
+.rgba {
+  display:  flex;
+  gap:  10px;
+  justify-content:  space-between;
+}
+
+.rgba input[type='text'] {
+  text-align: right;
+  width: 25px;
+}

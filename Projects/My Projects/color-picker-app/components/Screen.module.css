@@ -1,0 +1,13 @@
+.screen {
+  margin: auto;
+  border: solid 4px #aaaaaa;
+  outline: solid 4px #b5b5b5;
+  width: 75%;
+  height: 350px;
+  margin-bottom: 25px;
+}
+
+.display {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,13 @@
+.container {
+  background-color: #d1d1d1;
+  border: solid 4px #b5b5b5;
+  outline: solid 4px #aaaaaa;
+  margin: 50px auto;
+  width: 50%;
+}
+
+.h1 {
+  color:  #222222;
+  font-size:  38px;
+  text-align: center;
+}
