@@ -13,7 +13,7 @@ function App() {
 
   function addToList(text) {
     const item = {
-      id: list.length+1,
+      id: list[list.length-1].id+1,
       description:  text,
       completed:  false
     }
