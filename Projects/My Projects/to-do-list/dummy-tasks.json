@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description":  "Wake up at 8am",
+    "completed":  false
+  },
+  {
+    "id": 2,
+    "description":  "Go buy groceries for the week",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "description":  "Workout at the gym",
+    "completed": false
+  }
+]
