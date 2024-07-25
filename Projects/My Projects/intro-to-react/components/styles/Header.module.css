@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+}
+
+.caption {
+  align-content: center;
+}
+
+.logo {
+  padding: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+.title {
+  margin-bottom: 0;
+  font-size: 40px;
+  color: #61DAFB;
+}
+
+.subtitle {
+  margin-top: 0;
+  color: #67A4B5;
+}

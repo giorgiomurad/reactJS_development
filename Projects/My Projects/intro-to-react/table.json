@@ -1,0 +1,27 @@
+{
+  "list":[
+    [
+      "React is extremely popular",
+      "It makes building complex, interactive UIs a breeze",
+      "It's powerful and flexible",
+      "It has a very active and vertasile ecosystem"
+    ],
+    [
+      "Components, JSX, Props",
+      "State",
+      "Hooks (e.g. useEffect())",
+      "Dynamic Rendering"
+    ],
+    [
+      "Official web page (react.dev)",
+      "Next.js (Fullstack framework)",
+      "React Native (build native mobile apps with React)"
+    ],
+    [
+      "Vanilla JavaScript requires imperative programming",
+      "Imperative Programming: You define all the steps needed",
+      "React on the other hand embraces declarative programming",
+      "With React, you define the goal and React figures out how to get to that goal"
+    ]
+  ]
+}

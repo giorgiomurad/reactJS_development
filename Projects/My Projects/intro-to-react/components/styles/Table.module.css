@@ -1,0 +1,39 @@
+.fragment {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs button {
+  font-size: 18px;
+  border: none;
+  color: #FFFFFF;
+  margin: 0 5px;
+  padding: 15px;
+  cursor: pointer;
+  background-color: #20296F;
+  border-radius: 15px 15px 0 0;
+}
+
+.tabs button:hover {
+  background-color: #61DAFB;
+  color: #20296F;
+}
+
+.tabs button.active {
+  background-color: #61DAFB;
+  color: #20296F;
+}
+
+.list {
+  margin-left: 5px;
+  padding: 5px;
+  background-color: #20296F;
+  border-radius: 0 15px 15px 15px;
+  color: #FFFFFF;
+}
+
+.list li {
+  font-size: 18px;
+  padding: 5px;
+}
